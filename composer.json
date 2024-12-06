@@ -1,0 +1,15 @@
+{
+    "name": "jeffreyvanrossum/pint-action-test",
+    "autoload": {
+        "psr-4": {
+            "PintActionTest\\PintActionTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jeffrey van Rossum",
+            "email": "jeffrey@vanrossum.dev"
+        }
+    ],
+    "require": {}
+}
