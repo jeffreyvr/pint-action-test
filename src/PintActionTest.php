@@ -16,7 +16,8 @@ class PintActionTest
         return new \stdClass;
     }
 
-    public static function oldArrayFormat() {
-        return array();
+    public static function oldArrayFormat()
+    {
+        return [];
     }
 }
